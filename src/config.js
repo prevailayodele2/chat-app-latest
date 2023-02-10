@@ -5,7 +5,7 @@ import { enUS, frFR, zhCN, viVN, arSD } from '@mui/material/locale';
 import { PATH_DASHBOARD } from "./routes/paths";
 
 // export const BASE_URL = "http://localhost:4000";
-export const BASE_URL = "https://twak-backend.onrender.com";
+export const BASE_URL = "https://twak-api.onrender.com";
 
 export const defaultSettings = {
   themeMode: "light",
